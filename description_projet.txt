@@ -1,0 +1,4 @@
+Description de projet : 
+
+Ce projet contient permet de créer un programme qui permet de réaliser une calculatrice en mode console avec Python.
+le projet contient un seule fichier main.py qui doit contenir l'intégralité de code.
